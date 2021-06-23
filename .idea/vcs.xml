@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/P2_BOULANGER_Arnaud/Projet2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/P2_BOULANGER_Arnaud/Projet2/alumnis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/P2_BOULANGER_Arnaud/Projet2/alumnis/content/students" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/P3_BOULANGER_Arnaud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/P3_BOULANGER_Arnaud/test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/P3_BOULANGER_Arnaud/test/Jeudupendu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/P5_BOULANGER_Arnaud/Programme" vcs="Git" />
+  </component>
+</project>
